@@ -4,7 +4,7 @@ class Solution {
         int la=0;
         int ua=0;
         int da=0;
-        int cons=0;
+ 
         for(int i =0 ; i<moves.length() ; i++){
            char ch = moves.charAt(i);
 
