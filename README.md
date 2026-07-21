@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0796-rotate-string) |
+| [0824-goat-latin](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0824-goat-latin) |
 | [2129-capitalize-the-title](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/2129-capitalize-the-title) |
 ## Counting
 |  |
