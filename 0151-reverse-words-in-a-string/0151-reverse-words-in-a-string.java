@@ -12,16 +12,13 @@ class Solution {
             j--;
         }
         }
-        String b ="";
-       for(int k = 0 ; k <arr.length ; k++){
-       
-        if(k!=arr.length-1) {
-            b= b + arr[k] + " ";
-        }
-        else{
-             b = b +arr[k];
-        }
+       StringBuilder sb = new StringBuilder();
+       for(int k = 0 ; k < arr.length ; k++){
+       if(k==arr.length-1){
+        sb.append(arr[k]);}
+        else{sb.append(arr[k]+" ");}
        }
-       return b;
+       String b = sb.toString();
+       return b; 
     }
 }
