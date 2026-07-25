@@ -66,11 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0415-add-strings) |
 | [0989-add-to-array-form-of-integer](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
+| [3536-maximum-product-of-two-digits](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Stack
 |  |
