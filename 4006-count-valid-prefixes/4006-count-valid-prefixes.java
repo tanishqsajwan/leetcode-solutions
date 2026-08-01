@@ -9,6 +9,6 @@ class Solution {
 
               if(Math.abs(zero-one)<=1) ans++;
           }
-        return ans++;
+        return ans;
     }
 }
