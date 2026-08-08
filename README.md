@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-goat-latin](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0824-goat-latin) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2129-capitalize-the-title](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/2129-capitalize-the-title) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Heap (Priority Queue)
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Counting Sort
 |  |
 | ------- |
@@ -174,4 +177,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 <!---LeetCode Topics End-->
