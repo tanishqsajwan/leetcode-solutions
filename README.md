@@ -4,10 +4,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -29,8 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0076-minimum-window-substring) |
@@ -46,8 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -82,18 +83,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-capitalize-the-title](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/2129-capitalize-the-title) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0383-ransom-note](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0242-valid-anagram](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -101,28 +102,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0415-add-strings](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0682-baseball-game](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0682-baseball-game) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0415-add-strings](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0027-remove-element](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -133,26 +135,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1768-merge-strings-alternately](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0796-rotate-string) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0392-is-subsequence](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -174,12 +176,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -187,12 +189,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
