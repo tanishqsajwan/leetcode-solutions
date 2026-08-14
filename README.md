@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0525-contiguous-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
