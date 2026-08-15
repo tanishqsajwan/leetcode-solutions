@@ -4,7 +4,7 @@ class Solution {
         boolean istF = false;
         for(int num : nums){
             xor ^= num ;
-            if(xor != 0 ) istF = true;   
+            if(num != 0 ) istF = true;   
         }
         if(xor != 0) return nums.length;
         if(istF) return nums.length -1 ;
