@@ -20,11 +20,11 @@ class Solution {
 int index = 0;
 
 for(int i = 0; i <= j; i++){
-    result[index++] = arr_1[i];
+    result[index] = arr_1[i]; index++;
 }
 
 for(int i = 0; i <= k; i++){
-    result[index++] = arr_2[i];
+    result[index] = arr_2[i];  index++;
 }
 
 return result;
