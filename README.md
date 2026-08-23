@@ -133,6 +133,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0415-add-strings](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0415-add-strings) |
@@ -271,4 +272,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
