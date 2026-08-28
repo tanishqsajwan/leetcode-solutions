@@ -83,6 +83,7 @@
 | [0014-longest-common-prefix](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0076-minimum-window-substring](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -141,6 +142,7 @@
 | ------- | ------- |
 | [0050-powx-n](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0415-add-strings](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0415-add-strings) |
@@ -158,6 +160,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0415-add-strings](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0682-baseball-game) |
@@ -274,6 +277,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
