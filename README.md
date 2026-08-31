@@ -185,6 +185,7 @@
 | [0392-is-subsequence](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0876-middle-of-the-linked-list](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## String Matching
 | Problem Name | Difficulty |
@@ -309,4 +310,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
