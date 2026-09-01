@@ -55,6 +55,7 @@
 | [0001-two-sum](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
@@ -179,6 +180,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -316,6 +318,11 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0141-linked-list-cycle](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
