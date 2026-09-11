@@ -47,6 +47,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -84,6 +85,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -328,6 +330,7 @@
 | [0206-reverse-linked-list](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -368,4 +371,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
