@@ -41,6 +41,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1572-matrix-diagonal-sum](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1590-make-sum-divisible-by-p/) | Medium |
+| [1672-richest-customer-wealth](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1695-maximum-erasure-value](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1929-concatenation-of-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
@@ -380,4 +381,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
