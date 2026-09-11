@@ -24,6 +24,7 @@
 | [0682-baseball-game](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [0867-transpose-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -186,6 +187,7 @@
 | [0415-add-strings](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0867-transpose-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -380,6 +382,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0867-transpose-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
