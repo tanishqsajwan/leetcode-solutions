@@ -1,29 +1,25 @@
 class Solution {
-  public List luckyNumbers (int[][] matrix) {
-int n = matrix.length;
-int m = matrix[0].length;
-int maxOfMin = Integer.MIN_VALUE;
-
-// Find the maximum of the row minimums
-for (int i = 0; i < n; i++) {
-int minVal = Integer.MAX_VALUE;
-for (int j = 0; j < m; j++) {
-minVal = Math.min(minVal, matrix[i][j]);
-}
-maxOfMin = Math.max(maxOfMin, minVal);
-}
-
-// Verify if it is the maximum in its column
-List result = new ArrayList<>();
-for (int j = 0; j < m; j++) {
-int colMax = Integer.MIN_VALUE;
-for (int i = 0; i < n; i++) {
-colMax = Math.max(colMax, matrix[i][j]);
-}
-if (colMax == maxOfMin) {
-result.add(colMax);
-}
-}
-return result;
-}
+    public List<Integer> luckyNumbers (int[][] matrix) {
+        int rows = matrix.length;
+        int cols = matrix[0].length;
+        int maxOfRowMins=Integer.MIN_VALUE;
+        for(int i=0;i<rows;i++){
+            int minVal = matrix[i][0];
+            for(int j=0;j<cols;j++){
+                minVal = Math.min(minVal,matrix[i][j]);
+            }
+            maxOfRowMins = Math.max(minVal,maxOfRowMins);
+        }
+        List<Integer> res = new ArrayList<>();
+        for(int i=0;i<cols;i++){ //cols
+            int maxVal = matrix[0][i];
+            for(int j=0;j<rows;j++){ //rows
+                maxVal = Math.max(maxVal,matrix[j][i]);
+            }
+            if(maxVal == maxOfRowMins){
+                res.add(maxVal);
+            }
+        }
+        return res;
+    }
 }
