@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0136-single-number/) | Easy |
@@ -184,6 +185,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 | [0415-add-strings](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0415-add-strings) |
@@ -387,6 +389,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0832-flipping-an-image](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
