@@ -1,40 +1,26 @@
 class Solution {
     public void rotate(int[][] matrix) {
+          int n = matrix.length;
 
-        int n = matrix.length;
+    for (int i = 0; i < (n + 1) / 2; i ++) {
 
-        // STEP 1: Transpose the matrix
-        // Swap matrix[i][j] with matrix[j][i]
-        //
-        // We only need to visit the upper-right half.
-        // That's why j starts from i + 1.
-        for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j < n; j++) {
+      for (int j = 0; j < n / 2; j++) {
+        // Start 4 way swaps
+        // temp = bottom left
+        int temp = matrix[n - 1 - j][i];
 
-                int temp = matrix[i][j];
-                matrix[i][j] = matrix[j][i];
-                matrix[j][i] = temp;
-            }
-        }
+        // bottom left = bottom right
+        matrix[n - 1 - j][i] = matrix[n - 1 - i][n - j - 1];
 
-        // STEP 2: Reverse every row
-        //
-        // After transposing, reversing each row
-        // gives a 90° clockwise rotation.
-        for (int i = 0; i < n; i++) {
+        // bottom right = top right
+        matrix[n - 1 - i][n - j - 1] = matrix[j][n - 1 -i];
 
-            int left = 0;
-            int right = n - 1;
+        // top right = top left
+        matrix[j][n - 1 - i] = matrix[i][j];
 
-            while (left < right) {
-
-                int temp = matrix[i][left];
-                matrix[i][left] = matrix[i][right];
-                matrix[i][right] = temp;
-
-                left++;
-                right--;
-            }
-        }
+        // top left = temp
+        matrix[i][j] = temp;
+      }
+    }
     }
 }
