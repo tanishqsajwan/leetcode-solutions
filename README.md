@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0048-rotate-image](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0066-plus-one) |
@@ -157,6 +158,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
@@ -389,6 +391,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0832-flipping-an-image](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0867-transpose-matrix/) | Easy |
