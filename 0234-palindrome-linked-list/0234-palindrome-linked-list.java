@@ -10,15 +10,17 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        Stack<ListNode> seen = new Stack<>();
-        ListNode dummy = head;
+        Stack<ListNode> seen = new Stack<>(); //Stack to note elements 
+        ListNode dummy = head; 
+
+        //first loop to populate stack 
         while(dummy != null){
             seen.push(dummy);
             dummy = dummy.next;
         }
-        ListNode ans = head;
+        ListNode ans = head; //another pointer at head to iterate again 
         while(ans!= null){
-            if(ans.val != seen.pop().val) return false;
+            if(ans.val != seen.pop().val) return false; 
             ans = ans.next;
         }
         return true;
