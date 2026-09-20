@@ -138,6 +138,7 @@
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2129-capitalize-the-title](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/2129-capitalize-the-title) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
 | Problem Name | Difficulty |
@@ -211,6 +212,7 @@
 | [1389-create-target-array-in-the-given-order](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
