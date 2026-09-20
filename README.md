@@ -40,6 +40,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
+| [1089-duplicate-zeros](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1089-duplicate-zeros/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
@@ -233,6 +234,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1089-duplicate-zeros](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1089-duplicate-zeros/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## String Matching
 | Problem Name | Difficulty |
