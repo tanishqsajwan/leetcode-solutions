@@ -6,7 +6,7 @@ Queue<Integer> q;
     }
     
     public int ping(int t) {
-        q.add(t);
+        q.offer(t);
         while(q.peek()<t-3000){
         q.poll();
         }
