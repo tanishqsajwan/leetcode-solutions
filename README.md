@@ -72,6 +72,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
@@ -107,6 +108,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -175,6 +177,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0013-roman-to-integer](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0066-plus-one) |
