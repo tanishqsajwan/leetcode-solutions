@@ -3,7 +3,8 @@ class Solution {
         int smallest_index = Integer.MAX_VALUE;
         for(int i = 0 ;i < nums.length ; i++){
             if(i == sumofadigitindex(nums[i])){
-              smallest_index = Math.min(smallest_index , i);
+            smallest_index = i;
+            break;
             }
         }
         if(smallest_index == Integer.MAX_VALUE) return -1;
