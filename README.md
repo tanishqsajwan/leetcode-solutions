@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -330,6 +331,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0162-find-peak-element](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
