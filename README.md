@@ -38,6 +38,7 @@
 | [0739-daily-temperatures](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0832-flipping-an-image](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0867-transpose-matrix/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -348,6 +349,7 @@
 | [0287-find-the-duplicate-number](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
