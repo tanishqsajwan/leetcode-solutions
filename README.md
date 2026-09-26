@@ -57,6 +57,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1695-maximum-erasure-value](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1695-maximum-erasure-value/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1929-concatenation-of-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -102,6 +103,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1590-make-sum-divisible-by-p](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1695-maximum-erasure-value/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -145,6 +147,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2129-capitalize-the-title](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/2129-capitalize-the-title) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
