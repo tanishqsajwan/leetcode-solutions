@@ -484,4 +484,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0595-big-countries](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0595-big-countries/) | Easy |
 <!---LeetCode Topics End-->
