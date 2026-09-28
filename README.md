@@ -490,6 +490,7 @@
 | [0175-combine-two-tables](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0177-nth-highest-salary/) | Medium |
+| [0181-employees-earning-more-than-their-managers](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0183-customers-who-never-order](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0183-customers-who-never-order/) | Easy |
 | [0584-find-customer-referee](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0595-big-countries/) | Easy |
