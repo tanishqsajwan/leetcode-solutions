@@ -198,6 +198,7 @@
 | [0258-add-digits](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0415-add-strings](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -384,6 +385,7 @@
 | [0231-power-of-two](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0342-power-of-four](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0832-flipping-an-image](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Pigeonhole Principle
@@ -402,6 +404,7 @@
 | [0231-power-of-two](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Minimax
