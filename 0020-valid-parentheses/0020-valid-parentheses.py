@@ -12,4 +12,6 @@ class Solution:
                 else :
                     return False
 
-        return not seen
+        if not seen:
+            return True
+        return False
