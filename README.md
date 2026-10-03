@@ -21,6 +21,7 @@
 | [0162-find-peak-element](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -326,6 +327,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
