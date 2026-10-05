@@ -151,6 +151,7 @@
 | [0709-to-lower-case](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0824-goat-latin](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0824-goat-latin) |
+| [0856-score-of-parentheses](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -234,6 +235,7 @@
 | [0503-next-greater-element-ii](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0856-score-of-parentheses](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -489,6 +491,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0856-score-of-parentheses](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
