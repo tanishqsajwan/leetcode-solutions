@@ -5,6 +5,6 @@ class Solution {
             if(nums[i] == 0) return 0;
             else if(nums[i] < 0) count++;
         }
-        return count % 2 == 0 ?1:-1;
+        return count%2==0?1:-1;
     }
 }
