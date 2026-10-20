@@ -37,6 +37,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
+| [0705-design-hashset](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
@@ -110,6 +111,7 @@
 | [0523-continuous-subarray-sum](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0705-design-hashset](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -465,6 +467,7 @@
 | [0206-reverse-linked-list](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [0705-design-hashset](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
@@ -523,6 +526,7 @@
 | [0155-min-stack](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0705-design-hashset](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Monotonic Stack
@@ -650,5 +654,6 @@
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0705-design-hashset](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
 <!---LeetCode Topics End-->
