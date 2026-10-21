@@ -62,6 +62,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1470-shuffle-the-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -200,6 +201,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
