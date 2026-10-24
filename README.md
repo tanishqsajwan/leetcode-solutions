@@ -28,6 +28,7 @@
 | [0268-missing-number](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0496-next-greater-element-i](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -104,6 +105,7 @@
 | [0205-isomorphic-strings](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -180,6 +182,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -199,6 +202,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -353,6 +357,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1046-last-stone-weight](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Prefix Sum
@@ -406,6 +411,7 @@
 | [0190-reverse-bits](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -668,4 +674,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
