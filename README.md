@@ -575,6 +575,7 @@
 | [0577-employee-bonus](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0595-big-countries/) | Easy |
+| [0610-triangle-judgement](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0610-triangle-judgement/) | Easy |
 | [1148-article-views-i](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1148-article-views-i/) | Easy |
 | [1683-invalid-tweets](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1683-invalid-tweets/) | Easy |
 ## Tree
