@@ -582,6 +582,7 @@
 | [0610-triangle-judgement](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0610-triangle-judgement/) | Easy |
 | [1148-article-views-i](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1148-article-views-i/) | Easy |
 | [1683-invalid-tweets](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1683-invalid-tweets/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
