@@ -599,6 +599,7 @@
 | [0577-employee-bonus](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0595-big-countries/) | Easy |
+| [0596-classes-with-at-least-5-students](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0610-triangle-judgement](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0610-triangle-judgement/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1075-project-employees-i/) | Easy |
