@@ -208,6 +208,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -302,6 +303,7 @@
 | [0234-palindrome-linked-list](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0344-reverse-string](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -369,6 +371,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0295-find-median-from-data-stream](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -557,6 +560,7 @@
 | [0155-min-stack](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0705-design-hashset](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
@@ -570,6 +574,7 @@
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Monotonic Queue
