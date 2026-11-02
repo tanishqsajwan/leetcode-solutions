@@ -31,6 +31,7 @@
 | [0347-top-k-frequent-elements](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0455-assign-cookies](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -213,6 +214,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0389-find-the-difference](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0455-assign-cookies](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -308,6 +310,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0541-reverse-string-ii](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
@@ -714,4 +717,12 @@
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
