@@ -55,6 +55,7 @@
 | [0904-fruit-into-baskets](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0976-largest-perimeter-triangle](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [0992-subarrays-with-k-different-integers](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -221,6 +222,7 @@
 | [0455-assign-cookies](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0976-largest-perimeter-triangle](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -250,6 +252,7 @@
 | [0523-continuous-subarray-sum](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
+| [0976-largest-perimeter-triangle](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
@@ -729,10 +732,16 @@
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0860-lemonade-change/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
+## Polygons
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 <!---LeetCode Topics End-->
