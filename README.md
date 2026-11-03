@@ -58,6 +58,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [0992-subarrays-with-k-different-integers](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1046-last-stone-weight](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1052-grumpy-bookstore-owner](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
@@ -218,6 +219,7 @@
 | [0455-assign-cookies](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
@@ -723,6 +725,7 @@
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0860-lemonade-change/) | Easy |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
