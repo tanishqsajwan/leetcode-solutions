@@ -14,6 +14,7 @@
 | [0048-rotate-image](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0055-jump-game](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0088-merge-sorted-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -353,6 +354,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -737,6 +739,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
