@@ -31,6 +31,7 @@
 | [0347-top-k-frequent-elements](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -220,6 +221,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0389-find-the-difference](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -351,6 +353,7 @@
 | [0053-maximum-subarray](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -732,6 +735,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0435-non-overlapping-intervals](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
