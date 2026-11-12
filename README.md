@@ -163,6 +163,7 @@
 | [0014-longest-common-prefix](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
@@ -366,6 +367,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0045-jump-game-ii](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
@@ -591,6 +593,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0856-score-of-parentheses](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -788,6 +791,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0077-combinations/) | Medium |
