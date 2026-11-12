@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0039-combination-sum](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0045-jump-game-ii](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
@@ -785,6 +786,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0039-combination-sum](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0078-subsets/) | Medium |
