@@ -274,6 +274,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2235-add-two-integers](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/2235-add-two-integers/) | Easy |
+| [2652-sum-multiples](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/2652-sum-multiples/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
