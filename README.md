@@ -172,6 +172,7 @@
 | [0076-minimum-window-substring](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -375,6 +376,7 @@
 | [0053-maximum-subarray](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0131-palindrome-partitioning](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0392-is-subsequence](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -804,5 +806,6 @@
 | [0078-subsets](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
 <!---LeetCode Topics End-->
