@@ -16,9 +16,9 @@ class Solution {
         if(wi == word.length()) return true;
         int row = mat.length;
         int col = mat[0].length;
-        if(r < 0 || c < 0 || r >= row || c >= col || mat[r][c] == ' ' || mat[r][c] != word.charAt(wi)) return false;
+        if(r < 0 || c < 0 || r >= row || c >= col || mat[r][c] == '@' || mat[r][c] != word.charAt(wi)) return false;
         char ch = mat[r][c];
-        mat[r][c] = ' ' ; 
+        mat[r][c] = '@' ; 
         if(backtrack(mat, r-1, c, word, wi+1)||
            backtrack(mat, r, c+1, word, wi+1)||
            backtrack(mat, r+1, c, word, wi+1)||
