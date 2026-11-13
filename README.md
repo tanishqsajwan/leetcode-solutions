@@ -22,6 +22,7 @@
 | [0066-plus-one](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0134-gas-station](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0134-gas-station/) | Medium |
@@ -169,6 +170,7 @@
 | [0058-length-of-last-word](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0076-minimum-window-substring](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
@@ -553,6 +555,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
@@ -584,6 +587,7 @@
 | [0048-rotate-image](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0079-word-search](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0832-flipping-an-image](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0867-transpose-matrix/) | Easy |
@@ -798,6 +802,7 @@
 | [0046-permutations](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
 <!---LeetCode Topics End-->
