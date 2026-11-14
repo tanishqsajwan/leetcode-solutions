@@ -268,6 +268,7 @@
 | [0231-power-of-two](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0292-nim-game](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0415-add-strings](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0415-add-strings) |
@@ -521,10 +522,12 @@
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0292-nim-game/) | Easy |
 | [0877-stone-game](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0292-nim-game/) | Easy |
 | [0877-stone-game](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
@@ -808,4 +811,16 @@
 | [0090-subsets-ii](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0292-nim-game/) | Easy |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0292-nim-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
