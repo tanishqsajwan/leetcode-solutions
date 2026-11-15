@@ -823,4 +823,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0292-nim-game/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1791-find-center-of-star-graph](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1791-find-center-of-star-graph/) | Easy |
 <!---LeetCode Topics End-->
