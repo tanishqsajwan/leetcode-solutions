@@ -82,6 +82,7 @@
 | [1089-duplicate-zeros](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1089-duplicate-zeros/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -281,6 +282,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2235-add-two-integers](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/2235-add-two-integers/) | Easy |
@@ -438,6 +440,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
+| [1352-product-of-the-last-k-numbers](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1590-make-sum-divisible-by-p](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -621,6 +624,7 @@
 | [0705-design-hashset](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -633,6 +637,7 @@
 | [0295-find-median-from-data-stream](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
