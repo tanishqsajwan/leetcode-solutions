@@ -49,6 +49,7 @@
 | [0503-next-greater-element-ii](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0525-contiguous-array/) | Medium |
+| [0542-01-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -385,6 +386,7 @@
 | [0392-is-subsequence](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0542-01-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0877-stone-game](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
@@ -600,6 +602,7 @@
 | [0073-set-matrix-zeroes](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0542-01-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0832-flipping-an-image](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0867-transpose-matrix/) | Easy |
@@ -726,6 +729,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0542-01-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 ## DP on Trees
