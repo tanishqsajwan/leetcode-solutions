@@ -586,6 +586,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Doubly-Linked List
@@ -736,6 +737,7 @@
 | [0200-number-of-islands](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0542-01-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
+| [0547-number-of-provinces](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -850,9 +852,11 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1791-find-center-of-star-graph/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0547-number-of-provinces](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
