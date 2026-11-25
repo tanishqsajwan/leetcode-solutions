@@ -31,6 +31,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [0200-number-of-islands](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
@@ -579,6 +580,7 @@
 | [0112-path-sum](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0200-number-of-islands](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -602,6 +604,7 @@
 | [0054-spiral-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0079-word-search/) | Medium |
+| [0200-number-of-islands](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0542-01-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
@@ -730,6 +733,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
+| [0200-number-of-islands](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0542-01-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
@@ -847,4 +851,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1791-find-center-of-star-graph](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1791-find-center-of-star-graph/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
