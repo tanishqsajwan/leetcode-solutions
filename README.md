@@ -56,6 +56,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/tanishqsajwan/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0695-max-area-of-island](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0705-design-hashset](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
@@ -587,6 +588,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Doubly-Linked List
@@ -608,6 +610,7 @@
 | [0200-number-of-islands](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0542-01-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
+| [0695-max-area-of-island](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0832-flipping-an-image](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0867-transpose-matrix/) | Easy |
@@ -738,6 +741,7 @@
 | [0226-invert-binary-tree](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0542-01-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -859,4 +863,5 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 <!---LeetCode Topics End-->
