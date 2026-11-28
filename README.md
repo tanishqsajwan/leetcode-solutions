@@ -591,6 +591,7 @@
 | [0695-max-area-of-island](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0886-possible-bipartition](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0886-possible-bipartition/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -745,6 +746,7 @@
 | [0695-max-area-of-island](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0886-possible-bipartition](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0886-possible-bipartition/) | Medium |
 | [0994-rotting-oranges](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## DP on Trees
@@ -860,6 +862,7 @@
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0886-possible-bipartition](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0886-possible-bipartition/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/1791-find-center-of-star-graph/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -868,12 +871,15 @@
 | [0547-number-of-provinces](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0886-possible-bipartition](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0886-possible-bipartition/) | Medium |
 ## Graph Coloring
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0886-possible-bipartition](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0886-possible-bipartition/) | Medium |
 ## Bipartite Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0886-possible-bipartition](https://github.com/tanishqsajwan/leetcode-solutions/tree/main/0886-possible-bipartition/) | Medium |
 <!---LeetCode Topics End-->
